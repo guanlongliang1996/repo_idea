@@ -5,4 +5,8 @@ public class AccountDao {
     public void add(){
 
     }
+
+    public void update(){
+
+    }
 }
